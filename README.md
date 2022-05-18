@@ -1,1 +1,1 @@
-This program simulates the dice game "Craps" using a time delay that allows you to observe the figure of the dice with the value obtained randomly when two dice are thrown. The graphical interface is loaded from the file created with the Glade program.
+Simulates the dice game "Craps" using a time delay that allows you to observe the figure of the dice with the value obtained randomly when two dice are thrown. The graphical interface is loaded from the file created with the Glade program.
