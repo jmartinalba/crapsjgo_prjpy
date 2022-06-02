@@ -1,0 +1,4 @@
+.button:checked {
+    color: white;
+    background: red;
+}
